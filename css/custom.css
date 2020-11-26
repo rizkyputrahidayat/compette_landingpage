@@ -1,0 +1,171 @@
+body{
+    font-family: 'Asap', sans-serif;
+}
+.navbar-nav a{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #B0C3C9;
+    /* identical to box height */
+    text-align: right;
+}
+.navbar-nav .nav-link1{
+    color: #F2AD5F;
+    font-size: 20px;
+}
+hr{
+    border: 1;
+    border-color: #F2AD5F;
+}
+.header{
+    padding: 229px 381px 467px;
+    background-image: url('../images/bg.png');
+    margin-top: -127px;
+    margin-left: -90px;
+    background-size: cover;
+}
+.header h1{
+    font-weight: 600;
+    font-size: 65;
+    margin-right: -90px;
+    color: #ffffff;
+}
+.header a{
+    font-weight: 500;
+    font-size: 16;
+    margin-right: -90px;
+    color: #986121;
+}
+.header .btn-explore-mine{
+    margin-left: -40px;
+    margin-top: 10px;
+    background-color: #F2AD5F;
+    color: #986121;
+    border-radius: 56px;
+    position: absolute;
+}
+.header .btn-explore-mine:hover{
+    background-color: #f1a044;
+    color: #986121;
+}
+.logo-header img{
+    margin-top: -305px;
+}
+
+.section-network{
+    padding: 180px 120px;
+}
+.section-network .row .col-md-6 .images-caption{
+    padding-top: 10px;
+    padding-left: 100px;
+    color: #0F1D37;
+    font-weight: 600;
+    font-size: 35px;
+}
+.section-network .row .col-md-6 p{
+    font-size: 20px;
+    font-weight: 400;
+    color: #0F1D37;
+}
+.section-network .caption{
+    align-self: center;
+    padding: 30px 0 0 98px;
+}
+u{
+    color: #0F1D37;
+}
+/* Our Features Jobs */
+.features-jobs-heading h1{
+    font-weight: 600;
+    font-size: 38px;
+    style: normal;
+    margin-top: -220px;
+    color: #0F1D37;
+}
+.card-features-jobs{
+    min-height: 302px;
+    width: 243px;
+    color: #f1eeee;
+    border-radius: 16px;
+    padding: 20px;
+}
+.card-features-jobs h3{
+    font-size: 20px;
+    padding: 8px 0 4px 55px;
+    color: #0F1D37;
+}
+.card-features-jobs p{
+    margin-top: -7px;
+    padding-left: 55px;
+    font-size: 12px;
+    color: #CACAD2;;
+}
+.our-features-jobs{
+    margin-top: -40px;
+    padding-bottom: 140px;
+}
+.price{
+    padding-top: 35px;
+    padding-bottom: 30px;
+}
+.price h2{
+    font-size: 38px;
+    color: #10495C;
+    font-weight: 500;
+}
+.price b{
+    font-size: 18px;
+    color: #10495C;
+    font-weight: 500;
+}
+.caption h4{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: #0F1D37;
+}
+.full-time{
+    padding-top: 10px;
+}
+.incoming-jobs{
+    position: absolute;
+    font-size: 16px;
+    text-align: center;
+    color: #0F1D37;
+    padding-top: 450px;
+    padding-bottom: 100px;
+}
+.subscribe{
+    padding-top: 130px;
+    padding-bottom: 120px;
+}
+.subscribe h1{
+    margin-top: -215px;
+    font-size: 26px;
+    text-align: center;
+    color: #ffffff;
+}
+.subscribe p{
+    margin-top: -22px;
+    color: #B0C3C9;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+}
+.form-subscribe input{
+    width: 500px;
+    height: 45px;
+    position: relative;
+}
+.form-subscribe button{
+    background: #F2AD5F;
+    width: 170px;
+    height: 45px;
+    border-radius: 56px;
+    margin-top: -71px;
+    margin-right: -370px;
+    position: relative;
+    font-size: 16px;
+    color: #986121;
+}
+
